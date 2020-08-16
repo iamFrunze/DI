@@ -1,10 +1,8 @@
 package com.byfrunze.di.dagger.components
 
+import android.content.Context
 import com.byfrunze.di.MovieApplication
-import com.byfrunze.di.dagger.modules.AppModule
-import com.byfrunze.di.dagger.modules.FragmentsBuilderModule
-import com.byfrunze.di.dagger.modules.NetworkModule
-import com.byfrunze.di.dagger.modules.ViewModelModule
+import com.byfrunze.di.dagger.modules.*
 import dagger.BindsInstance
 import dagger.Component
 import dagger.android.support.AndroidSupportInjectionModule

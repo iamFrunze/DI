@@ -4,7 +4,6 @@ import androidx.lifecycle.ViewModel
 import androidx.lifecycle.ViewModelProvider
 import com.byfrunze.di.dagger.ViewModelFactory
 import com.byfrunze.di.dagger.ViewModelKey
-import com.byfrunze.di.ui.main.MainFragment
 import com.byfrunze.di.ui.main.MainViewModel
 import dagger.Binds
 import dagger.Module
